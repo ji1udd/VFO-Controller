@@ -9,4 +9,8 @@ It consists of an Arduino Pro Micro (AliExpress), a rotary encoder and four push
 ## Software
 It's also simple. Almost no programming is needed with using nice midi [_Control-Surface library_](https://github.com/tttapa/Control-Surface).  
 ## Enclosure
-It's made with 3D printer. I used a knob removed from a junk audio set.
+It's made with 3D printer. I used a knob removed from a junk audio set.  
+## Tethis/PowerSDR setting
+Encoder and switches are configurable freely.  Here is my setting.
+<img src="Doc/Thetis_Midi_setting.jpg" width="400px">  
+I found [_useful youtube video_](https://www.youtube.com/watch?v=X81hrYqUJiQ&t=628s) to configure. 
